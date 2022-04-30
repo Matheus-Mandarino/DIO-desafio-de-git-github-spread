@@ -1,2 +1,2 @@
-# DIO-desafio-de-git-github-spread
-Desafio do projeto de git
+# Desafio de Git/GitHub
+Desafio para aperfeiçoamento das habilidades com repositórrios.
